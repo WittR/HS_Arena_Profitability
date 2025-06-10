@@ -37,12 +37,17 @@ Les gains dans l'arène se décomposent en trois catégories :
 
 
 
-## Analyse de rentabilité
+## Analyse de rentabilité sur un exemple
 
-- En combinant la valeur totale des récompenses (or + valeur estimée des paquets), **l'arène underground devient rentable dès un taux de victoires d'environ 49%**.
+On regarde ici l'évolution nette de gain en or (ou équivalent or) partie après partie. 
+
+- En combinant la valeur totale des récompenses (or + valeur des paquets), **l'arène underground devient rentable dès un taux de victoire d'environ 49%**.
 
 ![profit_total_or_paquets](profit_total_or_paquets.png)
+**A travers cette exemple, on note que la divergence entre les winrates peut prendre beaucoup de temps.**
 
 - Si l'on considère uniquement le gain en or, et qu'on souhaite jouer sans jamais dépenser d'argent, le taux de victoire minimal nécessaire pour être rentable se situe autour de **72%**.
 
 ![profit_or_uniquement](profit_or_uniquement.png)
+
+**A travers cette exemple, on voit que 73% de winrate est rentable à l'infini mais que cela prend quand même du temps pour rester définitivement dans la zone rentable (presque 2000 parties !).**
