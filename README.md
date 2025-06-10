@@ -4,7 +4,7 @@
 
 L'étude vise à évaluer la rentabilité de l'arène underground en fonction du nombre de victoires et du taux de réussite (winrate).
 
-Les gains dans l'arène se décomposent en deux catégories :
+Les gains dans l'arène se décomposent en trois catégories :
 
 - **Récompenses en or** selon le nombre de victoires (1 ticket d'admission = 150po) :
   - 0 ou 1 victoire : 0 or
